@@ -4,8 +4,8 @@ Tools for AOL, IRC and VB hacking from 90s by Spul
 Spul of Omni
 Active 1995-1997
  
-Also known as Vortii and Liquid Terror 
-Other Group Associations included UHC, GZ, 
+Also known as Vortii and Liquid Terror
+Other Group Associations included UHC, GZ,
 UOAM and AOA
 
 Lanugages used: Pascal & Visual Basic 3.0
